@@ -1,3 +1,3 @@
 # flaskfun
 
-flaskfun is a simple dockerized web app ready to go on ECS - just plug and play!
+flaskfun is a simple web app ready to go - just plug and play!
